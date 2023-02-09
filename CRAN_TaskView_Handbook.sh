@@ -6,6 +6,10 @@
 # via wget & pandoc
 #------------------------------------------
 
+# setting up tmp folder and for handbooks
+mkdir tmp/
+mkdir handbooks/
+
 # Downloading temporal files into tmp
 # Using 8-second timeout to make the server contact friendly
 wget -N -P tmp/ --wait=8 --random-wait --input-file=src/cran_url.txt

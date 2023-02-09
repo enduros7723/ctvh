@@ -9,5 +9,3 @@ This repository contains a small set of routines dealing with creation of a hanb
 * `GNU wget` (https://www.gnu.org/software/wget/): to produce accurate and wise download of the web-pages
 
 ### Some generic principles:
-
-We parse 
